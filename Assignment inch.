@@ -1,0 +1,23 @@
+
+mylist=["Data","Details","Access"] 
+mylist1=[366,476.0,True,"Data"]
+print(mylist1)
+
+# Update
+mylist1[2]=False
+print(mylist1)
+
+# Append 
+mylist1.add("data1")
+print(mylist1)
+
+#Insert
+mylist1.insert(1000,300)
+print(mylist1)
+
+# delete
+del mylist1[5]
+print(mylist1)
+
+mylist1.remove("Data")
+print(mylist1)
