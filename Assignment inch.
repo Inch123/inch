@@ -30,3 +30,7 @@ _tuple_=(["all","the","ppl",23,387.87])
 print(_tuple_)
 all _tuple_
 print(_tuple_)
+
+
+['all', 'the', 'ppl', 23, 387.87]
+
