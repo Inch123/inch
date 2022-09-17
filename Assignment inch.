@@ -34,3 +34,22 @@ print(_tuple_)
 
 ['all', 'the', 'ppl', 23, 387.87]
 
+
+Dict={
+    "Username":["Domin","Domin1"],
+      "Password":"Key",
+      "Os":"windows",
+      "Ram":"164GB"
+    
+}
+print(Dict["Username"])
+
+#update
+Dict["Password"]=32667
+print(Dict)
+
+del Dict["Os"]
+print(Dict)
+
+
+
