@@ -53,3 +53,7 @@ print(Dict)
 
 
 
+{'Username': ['Domin', 'Domin1'], 'Password': 32667, 'Os': 'windows', 'Ram': '164GB'}
+{'Username': ['Domin', 'Domin1'], 'Password': 32667, 'Ram': '164GB'}
+
+
