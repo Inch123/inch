@@ -1,6 +1,6 @@
 
 mylist=["Data","Details","Access"] 
-mylist1=[366,476.0,True,"Data"]
+mylist1=[699,123.0,True,"Data"]
 print(mylist1)
 
 # Update
@@ -21,3 +21,6 @@ print(mylist1)
 
 mylist1.remove("Data")
 print(mylist1)
+
+[699, 123.0, True, 'Data']
+[699, 123.0, False, 'Data']
