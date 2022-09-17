@@ -24,3 +24,9 @@ print(mylist1)
 
 [699, 123.0, True, 'Data']
 [699, 123.0, False, 'Data']
+
+
+_tuple_=(["all","the","ppl",23,387.87])
+print(_tuple_)
+all _tuple_
+print(_tuple_)
