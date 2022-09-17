@@ -57,3 +57,14 @@ print(Dict)
 {'Username': ['Domin', 'Domin1'], 'Password': 32667, 'Ram': '164GB'}
 
 
+a="Shantiniketan"
+print(a[0:-5])
+print(a[-5:])
+print(a[:-5])
+print(a[-9:-1])
+
+Shantini
+ketan
+Shanthini
+tiniketa
+
